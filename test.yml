@@ -1,4 +1,5 @@
 ---
+
 - hosts: localhost
   tasks:
   - name: test file path splitting
